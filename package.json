@@ -1,0 +1,16 @@
+{
+  "name": "ledenev-practice5-phonebook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Практическая работа №5 — REST CRUD приложение телефонных контактов. Студент: Леденёв Глеб.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "4.21.2"
+  }
+}

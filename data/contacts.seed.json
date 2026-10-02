@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Леденёв Глеб",
+    "phone": "+7 900 111-22-33",
+    "email": "gleb.ledenev@example.com",
+    "company": "RTU MIREA"
+  },
+  {
+    "id": 2,
+    "name": "Анна Петрова",
+    "phone": "+7 900 222-33-44",
+    "email": "petrova@example.com",
+    "company": "Example Corp"
+  },
+  {
+    "id": 3,
+    "name": "Илья Соколов",
+    "phone": "+7 900 333-44-55",
+    "email": "sokolov@example.com",
+    "company": "Tech Lab"
+  }
+]
